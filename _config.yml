@@ -1,10 +1,10 @@
 # Site settings
-title: VestaMC 
-email: support@vestamc.net
-url: https://vestamc.net
-description: "Join VestaMC Prison Server at play.vestamc.net! PVP and Active Comunity!"
-skills: "Prison Server"
-meta_author: VestaMC Network
+title: Mercaturas
+email: contact@mercaturas.com
+url: https://mercaturas.com
+description: "A Digtal Commerce and Information Company"
+skills: "Minecraft, E-Commerce Data, Digital Marketing"
+meta_author: Mercaturas Group
 
 # Google webmaster tools
 google_verify:
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: VestaMC
+  copyright: Mercaturas Group Inc.
   location: Location
   social: Around the Web
   credits: Credits
@@ -39,7 +39,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/vesta_mc
+    url: https://twitter.com/mercaturas/
   #- title: facebook
   #  url:
   #- title: stack-overflow
